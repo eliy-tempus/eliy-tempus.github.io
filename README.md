@@ -1,5 +1,8 @@
 
+<div style="display:flex;justify-content:center;padding:1em;">
 <img src="https://avatars.githubusercontent.com/u/59487825?s=400&u=2ac2f10ce1304d9b8588d7527031e4bb9c343f12&v=4" width="100" height="100" style="border-radius:50%">
+</div>
+
 ***
 
 ## Мои навыки
